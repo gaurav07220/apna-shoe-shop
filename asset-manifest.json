@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/apna-shoe-shop/static/css/main.1d114fda.css",
+    "main.js": "/apna-shoe-shop/static/js/main.427e1926.js",
+    "static/js/787.8173b6c6.chunk.js": "/apna-shoe-shop/static/js/787.8173b6c6.chunk.js",
+    "static/media/Group 33092.png": "/apna-shoe-shop/static/media/Group 33092.57280b31bc8bf194f042.png",
+    "static/media/man two.jpg": "/apna-shoe-shop/static/media/man two.1d19418e56271bee9b42.jpg",
+    "static/media/man three.jpg": "/apna-shoe-shop/static/media/man three.dca7a795f9dab2734888.jpg",
+    "static/media/man one.jpg": "/apna-shoe-shop/static/media/man one.365efdfa64b8577d1cff.jpg",
+    "index.html": "/apna-shoe-shop/index.html",
+    "main.1d114fda.css.map": "/apna-shoe-shop/static/css/main.1d114fda.css.map",
+    "main.427e1926.js.map": "/apna-shoe-shop/static/js/main.427e1926.js.map",
+    "787.8173b6c6.chunk.js.map": "/apna-shoe-shop/static/js/787.8173b6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d114fda.css",
+    "static/js/main.427e1926.js"
+  ]
+}
